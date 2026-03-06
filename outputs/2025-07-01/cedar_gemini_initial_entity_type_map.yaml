@@ -1,0 +1,54 @@
+? https://data.4tu.nl/articles/dataset/Data_underlying_the_paper_Planktonic_primary_production_in_the_western_Dutch_Wadden_Sea/12872684/1
+: Access rights:
+  - Open Access; The dataset is freely available for access and use.
+  Data contact point:
+  - Contact; The general contact point for inquiries related to the data service.
+  Data creator:
+  - Pascalle Jacobs, Jacco C. Kromkamp, Sonja M. Van Leeuwen, C. J. M. (Katja) Philippart;
+    The individuals who created or contributed to the data.
+  Data publisher:
+  - 4TU.ResearchData; The organization responsible for publishing the dataset.
+  Description:
+  - A set of environmental variables measured 40x a year for 2010-2014 and 14C incubation
+    data from 2012-2014 used to fit production-light curves are included.; A detailed
+    explanation of the environmental variables and incubation data included in the
+    dataset.
+  Distribution access URL:
+  - Jacobs_etal_2020_MEPS639_Data.xlsx; The name of the Excel file available for download
+    from the dataset's page.
+  Distribution byte size:
+  - 140,313 Bytes; The size of the distributed data file in bytes.
+  Distribution format:
+  - Excel; The file format in which the data is distributed.
+  Keywords:
+  - 14C Incubations, Environmental Variance, Photosynthetic Parameters, Phytoplankton
+    Primary Production, Production-Light Curve, Western Wadden Sea; Terms that describe
+    the main topics and content of the dataset.
+  Landing page:
+  - 10.4121/12872684.v1; The DOI for the dataset, serving as its primary landing page.
+  License:
+  - CC0; The legal terms under which the data can be used and distributed.
+  Metadata date:
+  - 2020-10-30; The date when the data was first published online.
+  Metadata language:
+  - English; The language in which the metadata is presented.
+  Resource type:
+  - DATASET; The type of digital resource being described, which is a dataset.
+  Responsible organization metadata:
+  - 4TU.ResearchData; The organization responsible for publishing the dataset metadata.
+  Spatial coverage:
+  - Western Wadden Sea; The geographical area that the data covers.
+  Spatial reference system:
+  - Latitude And Longitude; The coordinate system used for the spatial data.
+  Spatial resolution:
+  - 53.002 N, 4.79 E; The specific latitude and longitude point for the geographical
+    data.
+  Temporal coverage:
+  - 2012-2014; The period of time that the data primarily covers for the core incubations.
+  Temporal resolution:
+  - 40x A Year; The frequency at which data was collected annually.
+  Title:
+  - Planktonic Primary Production In The Western Dutch Wadden Sea; The title of the
+    data underlying the paper and associated peer-reviewed publication.
+  Unique Identifier:
+  - 10.4121/12872684.v1; A persistent Digital Object Identifier (DOI) for the dataset.

@@ -1,0 +1,24 @@
+? https://data.4tu.nl/articles/dataset/Data_underlying_the_paper_Planktonic_primary_production_in_the_western_Dutch_Wadden_Sea/12872684/1
+: creator:
+  - Pascalle Jacobs, Jacco C. Kromkamp, Sonja M. Van Leeuwen, C. J. M. (Katja) Philippart
+  dateModified:
+  - '2020-10-30'
+  datePublished:
+  - '2020-10-30'
+  description:
+  - A set of environmental variables measured annually from 2010-2014, including sea
+    surface temperature, chlorophyll-a, salinity, light attenuation, and various dissolved
+    nutrients.
+  inLanguage:
+  - English
+  keywords:
+  - 14C Incubations, Environmental Variance, Photosynthetic Parameters, Phytoplankton
+    Primary Production, Production-Light Curve, Western Wadden Sea
+  license:
+  - CC0
+  name:
+  - Planktonic Primary Production In The Western Dutch Wadden Sea
+  publisher:
+  - 4TU.ResearchData
+  sameAs:
+  - 10.4121/12872684.v1

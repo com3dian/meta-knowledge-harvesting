@@ -1,0 +1,417 @@
+https://datahuiswadden.openearth.nl/geonetwork/srv/api/records/A0h06_NlSEuNlium5OO3FA:
+  Data contact point:
+  - Wageningen Marine Research
+  Data creator:
+  - Wageningen Marine Research
+  Data publisher:
+  - Wageningen Marine Research
+  Distribution access URL:
+  - Wadden viewer
+  Distribution format:
+  - gml+xml
+  License:
+  - Commission Regulation (EU) No 1089/2010
+  Metadata language:
+  - Nederlands and Vlaams
+  Metadata standard name:
+  - ISO19115
+  Metadata standard version:
+  - Nederlands metadata profiel op ISO 19115 voor geografie 2.0.0
+  Resource type:
+  - RijksWateren-EcotopenStelsel (RWES) and Zoute wateren EcotopenStelsel
+  Spatial coverage:
+  - Waddenzee
+  Title:
+  - 'WMR - TMAP: Ecotopenkaart'
+https://datahuiswadden.openearth.nl/geonetwork/srv/eng/catalog.search#/metadata/0fe7e64b-50b3-4cee-b64a-02659fc2b6c7:
+  Data contact point:
+  - The point of contact for information regarding GeoNetwork
+  Data publisher:
+  - The organization or entity that publishes GeoNetwork
+  Description:
+  - A register related to the Wadden Sea, a UNESCO World Heritage site
+  Landing page:
+  - The main page or entry point for accessing GeoNetwork's information
+  Responsible organization metadata:
+  - An open-source software that allows sharing of geographically referenced information
+  Title:
+  - Waddenregister
+https://datahuiswadden.openearth.nl/geonetwork/srv/eng/catalog.search#/metadata/L-mHomzGRuKAHGMkUPjY9g:
+  Data contact point:
+  - The point of contact for information regarding GeoNetwork
+  Data publisher:
+  - The organization or entity that publishes GeoNetwork
+  Description:
+  - A register related to the Wadden Sea, a UNESCO World Heritage site
+  Landing page:
+  - The main page or entry point for accessing GeoNetwork's information
+  Responsible organization metadata:
+  - An open-source software that allows sharing of geographically referenced information
+  Title:
+  - Waddenregister
+https://developers.google.com/earth-engine/datasets/catalog/NASA_HLS_HLSS30_v002:
+  Access rights:
+  - N/A
+  Data contact point:
+  - N/A
+  Data creator:
+  - N/A
+  Data publisher:
+  - N/A
+  Description:
+  - A short explanation of what the dataset represents
+  Distribution access URL:
+  - N/A
+  Distribution byte size:
+  - N/A
+  Distribution format:
+  - N/A
+  Keywords:
+  - N/A
+  Landing page:
+  - N/A
+  License:
+  - N/A
+  Metadata date:
+  - N/A
+  Metadata language:
+  - N/A
+  Resource type:
+  - N/A
+  Responsible organization metadata:
+  - N/A
+  Spatial coverage:
+  - N/A
+  Spatial reference system:
+  - N/A
+  Spatial resolution:
+  - N/A
+  Temporal coverage:
+  - N/A
+  Temporal resolution:
+  - N/A
+  Title:
+  - Harmonized Landsat Sentinel-2 (HLS)
+  Unique Identifier:
+  - N/A
+https://lifesciences.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-2bd-kskz:
+  Access rights:
+  - N/A
+  Data contact point:
+  - N/A
+  Data creator:
+  - N/A
+  Data publisher:
+  - N/A
+  Description:
+  - The Dutch forest reserves network encompasses about 60 forest reserves representing
+    all major forest types in the Netherlands
+  Distribution access URL:
+  - N/A
+  Distribution byte size:
+  - N/A
+  Distribution format:
+  - ArcGIS shapefiles
+  Keywords:
+  - forest reserve, monitoring, database, non-intervention dynamics
+  Landing page:
+  - N/A
+  License:
+  - DANS Licence
+  Metadata date:
+  - N/A
+  Metadata language:
+  - N/A
+  Resource type:
+  - N/A
+  Responsible organization metadata:
+  - N/A
+  Spatial coverage:
+  - the Netherlands
+  Spatial reference system:
+  - N/A
+  Spatial resolution:
+  - N/A
+  Temporal coverage:
+  - N/A
+  Temporal resolution:
+  - N/A
+  Title:
+  - Dutch forest reserves database and network
+  Unique Identifier:
+  - N/A
+https://stac.ecodatacube.eu/blue_glad.landsat.ard2.seasconv.m.yearly/collection.json:
+  Access rights:
+  - Open
+  Data contact point:
+  - Leandro Parente
+  Data creator:
+  - OpenGeoHub
+  Data publisher:
+  - OpenGeoHub
+  Description:
+  - Blue band aggregated yearly from 30-m bi-monthly gapfilled GLAD Landsat ARD blue
+    band from 2000 to 2022
+  Distribution access URL:
+  - https://doi.org/10.5281/zenodo.10851081
+  Distribution byte size:
+  - Varies
+  Distribution format:
+  - COG
+  Keywords:
+  - Landsat, Blue, 30-m
+  Landing page:
+  - EcoDataCube
+  License:
+  - CC-BY-SA-4.0
+  Metadata date:
+  - EcoDataCube
+  Metadata language:
+  - English
+  Resource type:
+  - Imagery
+  Responsible organization metadata:
+  - OpenGeoHub
+  Spatial coverage:
+  - Global
+  Spatial reference system:
+  - WGS84
+  Spatial resolution:
+  - 30 meters
+  Temporal coverage:
+  - 2000-01-01 to 2022-12-31
+  Temporal resolution:
+  - Yearly
+  Title:
+  - Cloud-free reconstructed Landsat yearly blue band
+  Unique Identifier:
+  - EcoDataCube
+https://stac.ecodatacube.eu/green_glad.landsat.ard2.seasconv.m.yearly/collection.json:
+  Access rights:
+  - Open
+  Data contact point:
+  - Leandro Parente
+  Data creator:
+  - OpenGeoHub
+  Data publisher:
+  - OpenGeoHub
+  Description:
+  - Green band aggregated yearly from 30-m bi-monthly gapfilled GLAD Landsat ARD green
+    band from 2000 to 2022
+  Distribution access URL:
+  - https://doi.org/10.5281/zenodo.10851081
+  Distribution byte size:
+  - Varies by year
+  Distribution format:
+  - COG
+  Keywords:
+  - Landsat, Green, 30-m
+  Landing page:
+  - EcoDataCube
+  License:
+  - CC-BY-SA-4.0
+  Metadata date:
+  - EcoDataCube. A dataset that provides cloud-free reconstructed Landsat yearly green
+    band data
+  Metadata language:
+  - English
+  Resource type:
+  - Imagery
+  Responsible organization metadata:
+  - OpenGeoHub
+  Spatial coverage:
+  - Global
+  Spatial reference system:
+  - WGS84
+  Spatial resolution:
+  - 30 meters
+  Temporal coverage:
+  - 2000-01-01 to 2022-12-31
+  Temporal resolution:
+  - Yearly
+  Title:
+  - Cloud-free reconstructed Landsat yearly green band
+  Unique Identifier:
+  - EcoDataCube
+https://stac.ecodatacube.eu/ndvi_glad.landsat.ard2.seasconv/collection.json?.language=en:
+  Access rights:
+  - Open
+  Data contact point:
+  - xuemeng.tian@opengeohub.org
+  Data creator:
+  - Xuemeng Tian
+  Data publisher:
+  - OpenGeoHub
+  Description:
+  - NDVI. A measure of vegetation greenness computed from Landsat data
+  Distribution access URL:
+  - https://doi.org/10.5281/zenodo.10884235
+  Distribution byte size:
+  - Varies by file
+  Distribution format:
+  - COG
+  Keywords:
+  - landsat, ndvi, 30-m
+  Landing page:
+  - EcoDataCube
+  License:
+  - CC-BY-SA-4.0
+  Metadata date:
+  - EcoDataCube
+  Metadata language:
+  - English
+  Resource type:
+  - imagery
+  Responsible organization metadata:
+  - OpenGeoHub
+  Spatial coverage:
+  - Global
+  Spatial reference system:
+  - WGS84
+  Spatial resolution:
+  - 30 meters
+  Temporal coverage:
+  - 2000-01-01 to 2022-12-31
+  Temporal resolution:
+  - Bimonthly
+  Title:
+  - Cloud-free reconstructed Landsat bimonthly Normalized Difference Vegetation Index
+    (NDVI)
+  Unique Identifier:
+  - ndvi_glad.landsat.ard2.seasconv
+https://stac.ecodatacube.eu/veg_quercus.robur_anv.eml/collection.json?.language=en:
+  Access rights:
+  - Open
+  Data contact point:
+  - Carmelo Bonannella
+  Data creator:
+  - Carmelo Bonannella
+  Data publisher:
+  - OpenGeoHub
+  Description:
+  - 'Actual Natural Vegetation (ANV): probability of occurrence for the Pedunculate
+    oak in its realized environment for the period 2000 - 2033'
+  Distribution access URL:
+  - https://doi.org/10.5281/zenodo.5887415
+  Distribution byte size:
+  - Varies
+  Distribution format:
+  - COG
+  Keywords:
+  - tree species, landsat
+  Landing page:
+  - EcoDataCube
+  License:
+  - CC-BY-SA-4.0
+  Metadata date:
+  - EcoDataCube
+  Metadata language:
+  - English
+  Resource type:
+  - species distribution model
+  Responsible organization metadata:
+  - OpenGeoHub
+  Spatial coverage:
+  - Global
+  Spatial reference system:
+  - WGS84
+  Spatial resolution:
+  - 30 meters
+  Temporal coverage:
+  - 2000-01-01 to 2020-12-31
+  Temporal resolution:
+  - Yearly
+  Title:
+  - Actual Natural Vegetation (ANV)
+  Unique Identifier:
+  - Quercus Robur
+https://zenodo.org/records/11440456:
+  Access rights:
+  - Open
+  Data contact point:
+  - Kissling, W. Daniel
+  Data creator:
+  - Evans, Julian C.; Zilber, Rotem; Kissling, W. Daniel
+  Data publisher:
+  - Zenodo
+  Description:
+  - Repository of camera trap data recorded during three pilot studies of the Amsterdamse
+    Waterleidingduinen
+  Distribution access URL:
+  - https://zenodo.org/record/11440456
+  Distribution byte size:
+  - 21.6 GB
+  Distribution format:
+  - ZIP
+  Keywords:
+  - ecology, camera trapping, dunes
+  Landing page:
+  - Repository of camera trap data recorded during three pilot studies of the Amsterdamse
+    Waterleidingduinen
+  License:
+  - Creative Commons Attribution 4.0 International
+  Metadata date:
+  - N/A
+  Metadata language:
+  - English
+  Resource type:
+  - Dataset
+  Responsible organization metadata:
+  - Zenodo
+  Spatial coverage:
+  - Amsterdamse Waterleidingduinen
+  Spatial reference system:
+  - Not specified
+  Spatial resolution:
+  - Not specified
+  Temporal coverage:
+  - 2021–2023
+  Temporal resolution:
+  - Not specified
+  Title:
+  - Repository of camera trap data recorded during three pilot studies of the Amsterdamse
+    Waterleidingduinen
+  Unique Identifier:
+  - 10.5281/zenodo.11440456
+https://zenodo.org/records/8319440:
+  Access rights:
+  - open
+  Data creator:
+  - Parinaz Rashidi, Sopan D. Patil, Aafke M. Schipper, Rob Alkemade, Isabel Rosa
+  Data publisher:
+  - Zenodo
+  Description:
+  - This dataset comprises high-resolution land use data downscaled from LUH2 scenarios
+    for Belgium at both 10 m and 100 m resolutions.
+  Distribution access URL:
+  - https://doi.org/10.5281/zenodo.8319440
+  Distribution byte size:
+  - 196.3 MB
+  Distribution format:
+  - .tif
+  Keywords:
+  - spatial downscaling; GLOBIO land use allocation model; land use projection; Socio-economic
+    Pathway (SSP); Representative Concentration Pathways (RCP); scenarios
+  Landing page:
+  - https://doi.org/10.5281/zenodo.8319440
+  License:
+  - Creative Commons Attribution 4.0 International
+  Metadata date:
+  - September 5, 2023
+  Metadata language:
+  - English
+  Resource type:
+  - Dataset
+  Responsible organization metadata:
+  - Zenodo
+  Spatial coverage:
+  - Belgium
+  Spatial resolution:
+  - 10 m and 100 m
+  Temporal coverage:
+  - Three SSP-RCP scenarios
+  Title:
+  - High spatial resolution dataset of downscaled LUH2 land use scenarios for Belgium
+    (10 m and 100 m)
+  Unique Identifier:
+  - 10.5281/zenodo.8319440

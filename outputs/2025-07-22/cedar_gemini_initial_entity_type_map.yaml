@@ -1,0 +1,350 @@
+https://www.gbif.org/dataset/4fa7b334-ce0d-4e88-aaae-2e0c138d049e1:
+  creator:
+  - Auer T, Barker S, Barry J, Charnoky M, Curtis J, Davies I, Davis C, Downie I,
+    Fink D, Fredericks T, Ganger J, Gerbracht J, Hanks C, Hochachka W, Iliff M, Imani
+    J, Jordan A, Levatich T, Ligocki S, Long M T, Morris W, Morrow S, Oldham L, Padilla
+    Obregon F, Robinson O, Rodewald A, Ruiz-Gutierrez V, Schloss M, Smith A, Smith
+    J, Stillman A, Strimas-Mackey M, Sullivan B, Weber D, Wolf H, Wood C; These individuals
+    from the Cornell Lab of Ornithology are listed as the originators and authors
+    of the eBird Observation Dataset.
+  dateModified:
+  - September 27, 2024; September 27, 2024 represents the last time the metadata for
+    the eBird Observation Dataset was updated.
+  datePublished:
+  - March 22, 2024; March 22, 2024 is the publication date for the eBird Observation
+    Dataset.
+  description:
+  - eBird Observation Dataset; The eBird Observation Dataset (EOD) is a collective
+    enterprise managed by the Cornell Lab of Ornithology that uses citizen science
+    to gather and improve biodiversity data, becoming a major source for understanding
+    species distributions and bird conservation.
+  inLanguage:
+  - English; English is specified as the language used for both the metadata and the
+    data contained within the eBird Observation Dataset.
+  keywords:
+  - eBird, Ornithology, Citizen Science, Biodiversity, Bird Conservation, Species
+    Distribution; These keywords summarize the core themes, methodology, and subject
+    matter of the eBird Observation Dataset.
+  license:
+  - CC BY 4.0; CC BY 4.0 is a Creative Commons Attribution 4.0 International license
+    that permits sharing and adaptation of the material for any purpose, including
+    commercial, with appropriate attribution.
+  name:
+  - EOD – eBird Observation Dataset; EOD – eBird Observation Dataset is the official
+    name of the occurrence dataset published by the Cornell Lab of Ornithology.
+  publisher:
+  - Cornell Lab of Ornithology; The Cornell Lab of Ornithology is the organization
+    responsible for publishing, managing, and hosting the eBird Observation Dataset.
+  sameAs:
+  - https://doi.org/10.15468/aomfnb; This DOI provides a unique and persistent identifier
+    for the eBird Observation Dataset, serving as a stable link to its location and
+    an alternative identifier.
+https://www.gbif.org/dataset/4fa7b334-ce0d-4e88-aaae-2e0c138d049e2:
+  creator:
+  - Thomas Auer; An originator and one of the many contributors to the EOD – eBird
+    Observation Dataset.
+  dateModified:
+  - September 27, 2024; The most recent date when the metadata for the EOD – eBird
+    Observation Dataset was updated.
+  datePublished:
+  - March 22, 2024; The specific date when the EOD – eBird Observation Dataset was
+    published.
+  description:
+  - eBird; eBird is a collective enterprise managed by the Cornell Lab of Ornithology
+    that uses citizen science to collect and manage biodiversity data on birds, aiming
+    to increase data quantity and quality for scientific and conservation purposes.
+  inLanguage:
+  - English; The language in which the metadata and data of the EOD – eBird Observation
+    Dataset are provided.
+  keywords:
+  - Occurrence Dataset, eBird, Biodiversity, Ornithology; Terms that describe the
+    primary subject matter and content of the EOD – eBird Observation Dataset.
+  license:
+  - CC BY 4.0; A Creative Commons Attribution 4.0 International License, which allows
+    others to share and adapt the material for any purpose, even commercially, provided
+    attribution is given.
+  name:
+  - EOD – eBird Observation Dataset; The official name of the dataset published by
+    the Cornell Lab of Ornithology, focusing on eBird observations.
+  publisher:
+  - Cornell Lab of Ornithology; The institution responsible for publishing and managing
+    the EOD – eBird Observation Dataset.
+  sameAs:
+  - DOI10.15468/aomfnb; A persistent digital object identifier (DOI) that uniquely
+    identifies and provides a stable link to the EOD – eBird Observation Dataset.
+https://www.gbif.org/dataset/4fa7b334-ce0d-4e88-aaae-2e0c138d049e3:
+  creator:
+  - Auer T, Barker S, Barry J, Charnoky M, Curtis J, Davies I, Davis C, Downie I,
+    Fink D, Fredericks T, Ganger J, Gerbracht J, Hanks C, Hochachka W, Iliff M, Imani
+    J, Jordan A, Levatich T, Ligocki S, Long M T, Morris W, Morrow S, Oldham L, Padilla
+    Obregon F, Robinson O, Rodewald A, Ruiz-Gutierrez V, Schloss M, Smith A, Smith
+    J, Stillman A, Strimas-Mackey M, Sullivan B, Weber D, Wolf H, Wood C; This is
+    a comprehensive list of individuals credited as the creators of the EOD – eBird
+    Observation Dataset.
+  dateModified:
+  - September 27, 2024; September 27, 2024, is the most recent date on which the metadata
+    for the EOD – eBird Observation Dataset was modified.
+  datePublished:
+  - March 22, 2024; March 22, 2024, is the date when the EOD – eBird Observation Dataset
+    was officially published.
+  description:
+  - eBird; eBird is a citizen science enterprise that develops cooperative partnerships
+    among experts to increase the quantity and quality of biodiversity data.
+  inLanguage:
+  - English; English is the language used for both the metadata and the data content
+    of the dataset.
+  keywords:
+  - Occurrence Dataset, Aves Birds, Citizen Science, Biodiversity Data; These keywords
+    describe the primary subject matter and nature of the EOD – eBird Observation
+    Dataset.
+  license:
+  - CC BY 4.0; CC BY 4.0 is the specific Creative Commons license under which the
+    EOD – eBird Observation Dataset is published.
+  name:
+  - EOD – eBird Observation Dataset; EOD – eBird Observation Dataset is the official
+    name of the occurrence dataset compiled by the Cornell Lab of Ornithology.
+  publisher:
+  - Cornell Lab of Ornithology; The Cornell Lab of Ornithology is the managing and
+    publishing institution behind the EOD – eBird Observation Dataset.
+  sameAs:
+  - DOI10.15468/aomfnb; DOI10.15468/aomfnb is the preferred digital object identifier
+    (DOI) that uniquely identifies the EOD – eBird Observation Dataset.
+https://www.gbif.org/dataset/4fa7b334-ce0d-4e88-aaae-2e0c138d049e4:
+  creator:
+  - Auer T, Barker S, Barry J, Charnoky M, Curtis J, Davies I, Davis C, Downie I,
+    Fink D, Fredericks T, Ganger J, Gerbracht J, Hanks C, Hochachka W, Iliff M, Imani
+    J, Jordan A, Levatich T, Ligocki S, Long M T, Morris W, Morrow S, Oldham L, Padilla
+    Obregon F, Robinson O, Rodewald A, Ruiz-Gutierrez V, Schloss M, Smith A, Smith
+    J, Stillman A, Strimas-Mackey M, Sullivan B, Weber D, Wolf H, Wood C; These individuals
+    are listed as the originators of the eBird Observation Dataset.
+  dateModified:
+  - September 27, 2024; This date marks the last time the metadata for the eBird Observation
+    Dataset was modified.
+  datePublished:
+  - March 22, 2024; This date indicates when the eBird Observation Dataset was published.
+  description:
+  - Ebird; Ebird is a collective enterprise that takes a novel approach to citizen
+    science by developing cooperative partnerships among experts in a wide range of
+    fields.
+  inLanguage:
+  - English; The language in which both the dataset's metadata and its data content
+    are provided.
+  keywords:
+  - Ornithology, Citizen Science, Biodiversity, Birds, Habitats, Occurrence Data;
+    These terms describe the primary subjects and content of the eBird Observation
+    Dataset.
+  license:
+  - CC BY 4.0; This license specifies the terms under which the eBird Observation
+    Dataset is available for use.
+  name:
+  - EOD – eBird Observation Dataset; This is the official name of the occurrence dataset.
+  publisher:
+  - Cornell Lab Of Ornithology; This institution is responsible for publishing and
+    hosting the EOD – eBird Observation Dataset.
+  sameAs:
+  - DOI10.15468/aomfnb, CLOEODMETADATA.05192014.1, https://hosted-datasets.gbif.org/eBird/2023-eBird-dwca-1.0.zip,
+    https://ebird.org/science/download-ebird-data-products; These are alternative
+    identifiers and endpoints that refer to the same eBird Observation Dataset.
+https://www.gbif.org/dataset/4fa7b334-ce0d-4e88-aaae-2e0c138d049e5:
+  creator:
+  - Cornell Lab of Ornithology; The Cornell Lab of Ornithology is the institution
+    primarily responsible for the creation and management of the eBird Observation
+    Dataset.
+  dateModified:
+  - September 27, 2024; This date indicates when the metadata associated with the
+    eBird Observation Dataset was last updated.
+  datePublished:
+  - March 22, 2024; This is the date on which the eBird Observation Dataset was formally
+    published.
+  description:
+  - EOD – eBird Observation Dataset; The EOD – eBird Observation Dataset is a citizen
+    science initiative managed by the Cornell Lab of Ornithology, focused on collecting
+    and disseminating global bird observation data.
+  inLanguage:
+  - English; Both the metadata and the data content of the eBird Observation Dataset
+    are presented in the English language.
+  keywords:
+  - Citizen Science, Biodiversity, Ornithology, Bird Conservation; These keywords
+    represent the core themes and subject matter encompassed within the eBird Observation
+    Dataset.
+  license:
+  - CC BY 4.0; This is a Creative Commons Attribution 4.0 International License, which
+    permits reuse and adaptation with proper attribution.
+  name:
+  - EOD – eBird Observation Dataset; This is the official name of the comprehensive
+    dataset containing bird observation records.
+  publisher:
+  - Cornell Lab of Ornithology; The Cornell Lab of Ornithology serves as the publisher
+    and host institution for the eBird Observation Dataset.
+  sameAs:
+  - DOI:10.15468/aomfnb, CLOEODMETADATA.05192014.1; These are identifiers that refer
+    to the same eBird Observation Dataset, including its preferred Digital Object
+    Identifier and an alternative metadata identifier.
+https://www.gbif.org/dataset/4fa7b334-ce0d-4e88-aaae-2e0c138d049e6:
+  creator:
+  - Thomas Auer, Sara Barker, Jeff Gerbracht, and others; These individuals are among
+    the many originators who contributed to the eBird Observation Dataset.
+  dateModified:
+  - September 27, 2024; This is the most recent date the dataset's metadata was modified.
+  datePublished:
+  - March 22, 2024; This date marks when the eBird Observation Dataset was officially
+    published.
+  description:
+  - EOD – eBird Observation Dataset; eBird is a collective enterprise that uses citizen
+    science to gather bird observation data and address quality control.
+  inLanguage:
+  - English; The dataset's metadata and data are provided in the English language.
+  keywords:
+  - eBird, Bird Observations, Biodiversity Data; These terms broadly categorize the
+    content and subject matter of the dataset.
+  license:
+  - CC BY 4.0; This license grants permission to use and share the dataset with attribution.
+  name:
+  - EOD – eBird Observation Dataset; This is an occurrence dataset primarily focused
+    on eBird observation data.
+  publisher:
+  - Cornell Lab of Ornithology; The Cornell Lab of Ornithology is responsible for
+    publishing and managing the eBird Observation Dataset.
+  sameAs:
+  - DOI10.15468/aomfnb, CLOEODMETADATA.05192014.1; These are unique identifiers and
+    alternative references for the eBird Observation Dataset.
+https://www.gbif.org/dataset/4fa7b334-ce0d-4e88-aaae-2e0c138d049e7:
+  creator:
+  - Cornell Lab Of Ornithology; The Cornell Lab of Ornithology is the primary institutional
+    creator and manager of the eBird Observation Dataset.
+  dateModified:
+  - September 27, 2024; September 27, 2024, is the date when the metadata for the
+    eBird Observation Dataset was last updated.
+  datePublished:
+  - March 22, 2024; March 22, 2024, marks the publication date of the current version
+    of the eBird Observation Dataset.
+  description:
+  - Ebird Observation Dataset (EOD); The eBird Observation Dataset is a citizen science
+    initiative managed by the Cornell Lab of Ornithology that collects and provides
+    biodiversity data on bird observations globally.
+  inLanguage:
+  - English; English is the language used for both the metadata and the content of
+    the eBird Observation Dataset.
+  keywords:
+  - eBird, Ornithology, Biodiversity, Citizen Science, Bird Observations; These keywords
+    describe the core subjects and nature of the EOD – eBird Observation Dataset,
+    encompassing its focus on birds, data collection method, and scientific field.
+  license:
+  - CC BY 4.0; CC BY 4.0 is a Creative Commons license that allows distribution, remixing,
+    and building upon the material, provided appropriate credit is given.
+  name:
+  - EOD – eBird Observation Dataset; EOD – eBird Observation Dataset is the official
+    name of the comprehensive occurrence dataset focused on bird observations.
+  publisher:
+  - Cornell Lab Of Ornithology; The Cornell Lab of Ornithology is the organization
+    responsible for publishing the EOD – eBird Observation Dataset.
+  sameAs:
+  - DOI 10.15468/aomfnb; DOI 10.15468/aomfnb is the preferred Digital Object Identifier,
+    serving as a unique and persistent link to the eBird Observation Dataset.
+https://www.gbif.org/dataset/4fa7b334-ce0d-4e88-aaae-2e0c138d049e8:
+  creator:
+  - Cornell Lab of Ornithology; The Cornell Lab of Ornithology is the institution
+    primarily responsible for the creation and ongoing management of the eBird Observation
+    Dataset.
+  dateModified:
+  - September 27, 2024; September 27, 2024 is the most recent date when the metadata
+    for the EOD – eBird Observation Dataset was updated.
+  datePublished:
+  - March 22, 2024; March 22, 2024 marks the official publication date of the EOD
+    – eBird Observation Dataset.
+  description:
+  - eBird; eBird, officially known as the EOD – eBird Observation Dataset, is a collective
+    enterprise that uses citizen science to manage and publish ornithological occurrence
+    data.
+  inLanguage:
+  - English; English is the language used for both the metadata and the data within
+    the EOD – eBird Observation Dataset.
+  keywords:
+  - Occurrence Dataset, Citizen Science, Aves Birds; These terms – Occurrence Dataset,
+    Citizen Science, and Aves Birds – are important keywords describing the nature
+    and subject of the eBird data.
+  license:
+  - CC BY 4.0; CC BY 4.0 is the Creative Commons Attribution 4.0 International license
+    applied to the EOD – eBird Observation Dataset.
+  name:
+  - EOD – eBird Observation Dataset; EOD – eBird Observation Dataset is the primary
+    and official name given to this occurrence dataset.
+  publisher:
+  - Cornell Lab of Ornithology; The Cornell Lab of Ornithology is the organization
+    responsible for publishing the EOD – eBird Observation Dataset.
+  sameAs:
+  - DOI10.15468/aomfnb; DOI 10.15468/aomfnb is the preferred identifier and a direct
+    link to the EOD – eBird Observation Dataset via GBIF.org.
+https://www.gbif.org/dataset/4fa7b334-ce0d-4e88-aaae-2e0c138d049e9:
+  creator:
+  - Cornell Lab of Ornithology; The Cornell Lab of Ornithology is the primary institutional
+    creator responsible for the EOD – eBird Observation Dataset.
+  dateModified:
+  - September 27, 2024; September 27, 2024, indicates the date when the metadata for
+    the EOD – eBird Observation Dataset was last updated.
+  datePublished:
+  - March 22, 2024; March 22, 2024, is the publication date for the EOD – eBird Observation
+    Dataset.
+  description:
+  - eBird; eBird is a collective enterprise that takes a novel approach to citizen
+    science by developing cooperative partnerships among experts in a wide range of
+    fields.
+  inLanguage:
+  - English; English is the language used for both the metadata and the data content
+    within the EOD – eBird Observation Dataset.
+  keywords:
+  - Bird Observation Data; Bird Observation Data refers to the primary subject matter
+    and thematic focus of the EOD – eBird Observation Dataset.
+  license:
+  - CC BY 4.0; CC BY 4.0 is a Creative Commons license that permits the sharing and
+    adaptation of the dataset for any purpose, with proper attribution.
+  name:
+  - EOD – eBird Observation Dataset; The EOD – eBird Observation Dataset is an occurrence
+    dataset published by the Cornell Lab of Ornithology.
+  publisher:
+  - Cornell Lab of Ornithology; The Cornell Lab of Ornithology is the organization
+    that formally publishes and makes the EOD – eBird Observation Dataset available.
+  sameAs:
+  - DOI10.15468/aomfnb; DOI10.15468/aomfnb is the preferred persistent identifier
+    for the EOD – eBird Observation Dataset.
+https://www.gbif.org/dataset/4fa7b334-ce0d-4e88-aaae-2e0c138d049e10:
+  creator:
+  - Thomas Auer, Sara Barker, Jessie Barry, Mike Charnoky, Jenna Curtis, Ian Davies,
+    Courtney Davis, Iain Downie, Daniel Fink, Tom Fredericks, Joshua Ganger, Jeff
+    Gerbracht, Cullen Hanks, Wesley Hochachka, Marshall Iliff, Jasdev Imani, Adam
+    Jordan, Tim Levatich, Shawn Ligocki, M. Taylor Long, William Morris, Stephen Morrow,
+    Lauren Oldham, Francisco Padilla Obregon, Orin Robinson, Amanda Rodewald, Viviana
+    Ruiz-Gutierrez, Matt Schloss, Alli Smith, Jeremy Smith, Andrew Stillman, Matt
+    Strimas-Mackey, Brian Sullivan, Drew Weber, Heather Wolf, Christopher Wood; This
+    extensive list comprises the individuals credited as originators or authors of
+    the EOD – eBird Observation Dataset.
+  dateModified:
+  - September 27, 2024; September 27, 2024, is the date when the metadata associated
+    with the EOD – eBird Observation Dataset was last modified.
+  datePublished:
+  - March 22, 2024; The official publication date for the EOD – eBird Observation
+    Dataset is March 22, 2024.
+  description:
+  - EOD – eBird Observation Dataset; EOD – eBird Observation Dataset is a collective
+    enterprise managed by the Cornell Lab of Ornithology, focused on increasing data
+    quantity and controlling data quality for citizen science in ornithology.
+  inLanguage:
+  - English; Both the metadata and the data content of the EOD – eBird Observation
+    Dataset are provided in English.
+  keywords:
+  - citizen science, biodiversity, birds, ornithology, occurrence data, species distribution,
+    conservation; These keywords represent the main themes and subject areas covered
+    by the EOD – eBird Observation Dataset, including citizen science and bird conservation.
+  license:
+  - CC BY 4.0; CC BY 4.0 is the Creative Commons Attribution 4.0 International license
+    under which the EOD – eBird Observation Dataset is made available.
+  name:
+  - EOD – eBird Observation Dataset; EOD – eBird Observation Dataset is the official
+    name of this large-scale citizen science occurrence dataset focusing on bird observations.
+  publisher:
+  - Cornell Lab of Ornithology; The Cornell Lab of Ornithology is the primary institution
+    responsible for publishing and hosting the EOD – eBird Observation Dataset.
+  sameAs:
+  - https://doi.org/10.15468/aomfnb, CLOEODMETADATA.05192014.1; These are preferred
+    and alternative identifiers, including a DOI and a metadata ID, used to uniquely
+    reference the EOD – eBird Observation Dataset.

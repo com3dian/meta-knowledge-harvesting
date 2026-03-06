@@ -1,0 +1,335 @@
+https://datahuiswadden.openearth.nl/geonetwork/srv/api/records/A0h06_NlSEuNlium5OO3FA:
+  Access rights:
+  - Geen gebruiks limitaties
+  Data contact point:
+  - Wageningen Marine Research
+  Data creator:
+  - Wageningen Marine Research
+  Data publisher:
+  - Wageningen Marine Research
+  Description:
+  - Ecotopenkaart
+  Distribution access URL:
+  - Wadden viewer
+  Distribution byte size:
+  - WS3shp:WS3_Ecotope_Map
+  Distribution format:
+  - GML+xml
+  Keywords:
+  - TMAP
+  Landing page:
+  - Wageningen Marine Research
+  License:
+  - Copyright
+  Metadata date:
+  - 'WMR - TMAP: Ecotopenkaart'
+  Metadata language:
+  - Waddenregister
+  Resource type:
+  - GML+xml
+  Responsible organization metadata:
+  - Rijkswaterstaat
+  Spatial coverage:
+  - Waddenzee
+  Spatial reference system:
+  - RijksWateren-EcotopenStelsel (RWES)
+  Spatial resolution:
+  - Zoute wateren EcotopenStelsel
+  Temporal coverage:
+  - '2016-11-01'
+  Temporal resolution:
+  - Commission Regulation (EU) No 1089/2010
+  Title:
+  - Ecotopenkaart Waddenzee
+  Unique Identifier:
+  - A0h06_NlSEuNlium5OO3FA
+https://datahuiswadden.openearth.nl/geonetwork/srv/eng/catalog.search#/metadata/0fe7e64b-50b3-4cee-b64a-02659fc2b6c7:
+  Access rights:
+  - Waddenregister
+  Data contact point:
+  - Waddenregister
+  Data creator:
+  - Waddenregister
+  Data publisher:
+  - Waddenregister
+  Description:
+  - Waddenregister
+  Distribution access URL:
+  - N/A
+  Distribution byte size:
+  - N/A
+  Distribution format:
+  - Waddenregister
+  Keywords:
+  - N/A
+  Landing page:
+  - Waddenregister
+  License:
+  - N/A
+  Metadata date:
+  - Waddenregister
+  Metadata language:
+  - Waddenregister
+  Organization:
+  - GeoNetwork
+  Purpose:
+  - improve access to and integrated use of spatial data and information
+  Resource type:
+  - Waddenregister
+  Responsible organization metadata:
+  - Waddenregister
+  Spatial coverage:
+  - Waddenregister
+  Spatial reference system:
+  - Waddenregister
+  Spatial resolution:
+  - Waddenregister
+  Temporal coverage:
+  - Waddenregister
+  Temporal resolution:
+  - Waddenregister
+  Title:
+  - Waddenregister
+  Unique Identifier:
+  - N/A
+https://datahuiswadden.openearth.nl/geonetwork/srv/eng/catalog.search#/metadata/L-mHomzGRuKAHGMkUPjY9g:
+  Access rights:
+  - Waddenregister
+  Data contact point:
+  - Waddenregister
+  Data creator:
+  - Waddenregister
+  Data publisher:
+  - Waddenregister
+  Description:
+  - Waddenregister
+  Distribution access URL:
+  - N/A
+  Distribution byte size:
+  - N/A
+  Distribution format:
+  - Waddenregister
+  Keywords:
+  - N/A
+  Landing page:
+  - Waddenregister
+  License:
+  - N/A
+  Metadata date:
+  - Waddenregister
+  Metadata language:
+  - Waddenregister
+  Organization:
+  - GeoNetwork
+  Purpose:
+  - improve access to and integrated use of spatial data and information
+  Resource type:
+  - Waddenregister
+  Responsible organization metadata:
+  - Waddenregister
+  Spatial coverage:
+  - Waddenregister
+  Spatial reference system:
+  - Waddenregister
+  Spatial resolution:
+  - Waddenregister
+  Temporal coverage:
+  - Waddenregister
+  Temporal resolution:
+  - Waddenregister
+  Title:
+  - Waddenregister
+  Unique Identifier:
+  - N/A
+https://developers.google.com/earth-engine/datasets/catalog/NASA_HLS_HLSS30_v002:
+  Code:
+  - Code snippet that provides access to the HLSS30 dataset in Earth Engine
+  Company:
+  - Multinational technology company that specializes in Internet-related services
+    and products
+  Dataset:
+  - Provides consistent surface reflectance data from the Operational Land Imager
+    (OLI) aboard the joint NASA/USGS Landsat 8 satellite and the Multi-Spectral Instrument
+    (MSI) aboard Europe's Copernicus Sentinel-2A satellites.
+  Dataset Identifier:
+  - Unique identifier for the HLSS30 dataset
+  Dataset Version:
+  - Version of the HLSS30 dataset
+  Function:
+  - Function in Earth Engine that creates an image collection
+  Instrument:
+  - Satellite instrument that provides high-resolution images of the Earth's surface
+  Mission:
+  - Series of Earth observation satellites launched by NASA
+  Organization:
+  - United States government agency responsible for the nation's civilian space program
+    and for aeronautics and space research; scientific agency of the United States
+    government
+  Platform:
+  - Platform for petabyte-scale scientific analysis and visualization of geospatial
+    datasets
+  Program:
+  - European Union's Earth Observation programme
+  Project:
+  - Provides consistent surface reflectance data from the Operational Land Imager
+    (OLI) aboard the joint NASA/USGS Landsat 8 satellite and the Multi-Spectral Instrument
+    (MSI) aboard Europe's Copernicus Sentinel-2A satellites
+  Satellite:
+  - NASA satellite that provides high-resolution images of the Earth's surface; European
+    Space Agency satellite that provides high-resolution images of the Earth's surface
+https://lifesciences.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-2bd-kskz:
+  Concept:
+  - Forest Reserve, Monitoring, Database, Non-Intervention Dynamics
+  Country:
+  - Netherlands
+  Dataset:
+  - Dutch Forest Reserves Database And Network, providing information on trees and
+    regeneration in circular sample plots and core areas.
+  Field Of Study:
+  - Agricultural Sciences, Medicine, Health And Life Sciences
+  Geographic Location:
+  - Dutch Forest Reserves, a network of forest reserves in the Netherlands
+  License:
+  - DANS Licence
+  Organization:
+  - DANS Data Station Life Sciences
+  Researcher:
+  - R.J. Bijlsma, A.P.P.M. Clerkx
+  Software:
+  - ArcGIS, MapInfo
+https://stac.ecodatacube.eu/blue_glad.landsat.ard2.seasconv.m.yearly/collection.json:
+  Dataset:
+  - EcoDataCube, Landsat yearly blue band dataset from 2000 to 2022
+  License:
+  - CC-BY-SA-4.0, for using and sharing the dataset
+  Organization:
+  - OpenGeoHub, provides geospatial data and services
+  Person:
+  - Leandro Parente, contact person for OpenGeoHub
+  Satellite:
+  - Landsat, provides earth observation data
+  Software:
+  - STAC Browser, for browsing and visualizing geospatial data
+https://stac.ecodatacube.eu/green_glad.landsat.ard2.seasconv.m.yearly/collection.json:
+  Access rights:
+  - Open access
+  Data contact point:
+  - leandro.parente@opengeohub.org
+  Data creator:
+  - Leandro Parente
+  Data publisher:
+  - OpenGeoHub
+  Description:
+  - Green band aggregated yearly from 30-m bi-monthly gapfilled GLAD Landsat ARD green
+    band from 2000 to 2022
+  Distribution access URL:
+  - https://ecodatacube.org/data
+  Distribution byte size:
+  - Variable
+  Distribution format:
+  - COG
+  Keywords:
+  - landsat, green, 30-m
+  Landing page:
+  - EcoDataCube landing page
+  License:
+  - CC-BY-SA-4.0
+  Metadata date:
+  - EcoDataCube
+  Metadata language:
+  - English
+  Resource type:
+  - Imagery
+  Responsible organization metadata:
+  - OpenGeoHub
+  Spatial coverage:
+  - Global
+  Spatial reference system:
+  - WGS84
+  Spatial resolution:
+  - 30-m
+  Temporal coverage:
+  - 2000-2022
+  Temporal resolution:
+  - Yearly
+  Title:
+  - Cloud-free reconstructed Landsat yearly green band
+  Unique Identifier:
+  - https://doi.org/10.5281/zenodo.10851081
+https://stac.ecodatacube.eu/ndvi_glad.landsat.ard2.seasconv/collection.json?.language=en:
+  Dataset:
+  - Provides cloud-free reconstructed Landsat bimonthly Normalized Difference Vegetation
+    Index (NDVI) data
+  Index:
+  - Measure of vegetation greenness, computed from satellite imagery
+  License:
+  - Creative commons license allowing for sharing and adaptation of the EcoDataCube
+    dataset, with attribution and share-alike requirements
+  Organization:
+  - Provides geospatial data and services, including the EcoDataCube dataset
+  Person:
+  - Contact person for the EcoDataCube dataset, reachable at xuemen.tian@opengeohub.org
+  Project:
+  - Provides Landsat data, used in the EcoDataCube dataset
+  Satellite:
+  - Series of Earth observation satellites providing high-resolution imagery of the
+    Earth's surface
+  Software:
+  - Tool for browsing and visualizing geospatial data, used to power the EcoDataCube
+    interface
+https://stac.ecodatacube.eu/veg_quercus.robur_anv.eml/collection.json?.language=en:
+  Dataset:
+  - EcoDataCube, Quercus robur, 2000-2020
+  License:
+  - CC-BY-SA-4.0, creative commons, sharing and adaptation
+  Map:
+  - OpenStreetMap, open-source mapping project
+  Organization:
+  - OpenGeoHub, geospatial data and services
+  Person:
+  - Carmelo Bonannella, contact person for OpenGeoHub
+  Satellite:
+  - Landsat, Earth observation satellites
+  Software:
+  - STAC Browser, spatiotemporal assets browser
+  Species:
+  - Quercus robur, Pedunculate oak
+https://zenodo.org/records/11440456:
+  Device:
+  - Camera trap, a device used for collecting data on wildlife
+  License:
+  - Creative Commons Attribution 4.0 International, a license for sharing and using
+    research data
+  Location:
+  - Amsterdamse Waterleidingduinen, a nature reserve in the Netherlands
+  Organization:
+  - Zenodo, a digital repository for publishing and sharing research data, GBIF, an
+    organization for sharing and publishing biodiversity data
+  Person:
+  - Evans, Julian C., Data curator and author of the camera trap data repository,
+    Zilber, Rotem, Data collector and author of the camera trap data repository, Kissling,
+    W. Daniel, Contact person and author of the camera trap data repository
+  Platform:
+  - Agouti, a platform for annotating and verifying camera trap data
+  Species:
+  - European rabbit, Red fox, European fallow deer
+  Standard:
+  - Camtrap DP, an open standard for the exchange and archiving of camera trap data
+https://zenodo.org/records/8319440:
+  Author:
+  - Parinaz Rashidi, Sopan D. Patil, Aafke M. Schipper, Rob Alkemade, Isabel Rosa
+  Dataset:
+  - High Spatial Resolution Dataset of Downscaled LUH2 Land Use Scenarios for Belgium,
+    10 m and 100 m resolutions
+  Funder:
+  - European Commission
+  License:
+  - Creative Commons Attribution 4.0 International
+  Location:
+  - Belgium
+  Model:
+  - GLOBIO, LUH2
+  Project:
+  - PONDERFUL
+  Publisher:
+  - Zenodo

@@ -1,0 +1,29 @@
+Title: 'HLSS30: HLS Sentinel-2 Multi-spectral Instrument Surface Reflectance Daily
+  Global 30m; This is the title of the dataset provided by NASA LP DAAC.'
+Data publisher: NASA LP DAAC; NASA LP DAAC is the publisher of the dataset.
+Description: 'HLSS30: HLS Sentinel-2 Multi-spectral Instrument Surface Reflectance
+  Daily Global 30m; The Harmonized Landsat Sentinel-2 (HLS) project provides consistent
+  surface reflectance data from the Operational Land Imager (OLI) aboard the joint
+  NASA/USGS Landsat 8 satellite and the Multi-Spectral Instrument (MSI) aboard Europe''s
+  Copernicus Sentinel-2A satellites.'
+Unique Identifier: NASA/HLS/HLSS30/v002; The unique identifier for the dataset is
+  NASA/HLS/HLSS30/v002.
+Resource type: Dataset; The resource type is a dataset.
+Keywords: landsat, nasa, satellite-imagery, sentinel, usgs; The keywords associated
+  with the dataset are landsat, nasa, satellite-imagery, sentinel, usgs.
+Data creator: NASA LP DAAC; The data creator is NASA LP DAAC.
+Data contact point: NASA LP DAAC; The data contact point is NASA LP DAAC.
+Spatial coverage: Global; The spatial coverage of the dataset is global.
+Spatial resolution: 30-meter (m) spatial resolution; The spatial resolution of the
+  dataset is 30-meter (m).
+Spatial reference system: N/A; The spatial reference system is not specified.
+Temporal coverage: 2015-11-28T00:00:00Z–2025-05-06T23:38:31Z; The temporal coverage
+  of the dataset is from 2015-11-28T00:00:00Z to 2025-05-06T23:38:31Z.
+Temporal resolution: Daily; The temporal resolution of the dataset is daily.
+License: Terms of Use; The license of the dataset is under the 'Terms of Use'.
+Access rights: Free to use for research, education, and nonprofit use; The access
+  rights of the dataset are free to use for research, education, and nonprofit use.
+Distribution access URL: https://developers.google.com/earth-engine/datasets/catalog/NASA_HLS_HLSS30;
+  The distribution access URL of the dataset is https://developers.google.com/earth-engine/datasets/catalog/NASA_HLS_HLSS30.
+Distribution format: N/A; The distribution format is not specified.
+Distribution byte size: N/A; The distribution byte size is not specified.

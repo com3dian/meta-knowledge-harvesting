@@ -1,0 +1,177 @@
+https://datahuiswadden.openearth.nl/geonetwork/srv/api/records/A0h06_NlSEuNlium5OO3FA:
+  Award:
+  - Recognizes the Wadden Sea's outstanding universal value.
+  Concept:
+  - Natural value or significance of an area or feature, considered in conservation
+    and management contexts.
+  Dataset:
+  - Provides ecotop maps for the Wadden Sea area, essential for coastal area management.
+    Contains information about the Wadden Sea, likely including ecological and geographical
+    data.
+  Ecological Unit:
+  - Ecological units defined by local conditions and characteristics, used in mapping
+    and managing ecosystems.
+  Geographical Feature:
+  - The Wadden Sea, a shallow coastal sea between the Netherlands, Germany, and Denmark,
+    known for its unique ecosystem. The Trilateral Wadden Sea, a shared area between
+    these countries, recognized for its ecological importance.
+  Guidelines:
+  - Rules for ensuring the interoperability of spatial data sets and services within
+    the INSPIRE framework.
+  Map:
+  - Shows ecotopes, ecological units defined by local conditions and characteristics.
+  Organization:
+  - 'Responsible for marine research, including the creation and distribution of datasets
+    like the WMR - TMAP: Ecotopenkaart.'
+  Regulation:
+  - Implements Directive 2007/2/EC concerning the interoperability of spatial data
+    sets and services.
+  System:
+  - RijksWateren-EcotopenStelsel (RWES) defines and maps ecotopes in Dutch waters,
+    particularly saltwater areas. Zoute wateren EcotopenStelsel is a subsystem of
+    RWES for mapping ecotopes in saltwater environments in the Netherlands.
+  Web Map Service:
+  - Provides access to the ecotope map data for the Wadden Sea.
+https://datahuiswadden.openearth.nl/geonetwork/srv/eng/catalog.search#/metadata/0fe7e64b-50b3-4cee-b64a-02659fc2b6c7:
+  Dataset:
+  - A register or catalog of waddens (coastal wetlands).
+  Purpose:
+  - To improve access to and integrated use of spatial data and information, support
+    decision making, promote multidisciplinary approaches to sustainable development,
+    and enhance understanding of the benefits of geographic information.
+  Software:
+  - An open-source platform for sharing geographically referenced thematic information.
+https://datahuiswadden.openearth.nl/geonetwork/srv/eng/catalog.search#/metadata/L-mHomzGRuKAHGMkUPjY9g:
+  Dataset:
+  - A register or catalog of waddens (coastal wetlands).
+  Purpose:
+  - To improve access to and integrated use of spatial data and information, support
+    decision making, promote multidisciplinary approaches to sustainable development,
+    and enhance understanding of the benefits of geographic information.
+  Software:
+  - An open-source platform for sharing geographically referenced thematic information.
+https://developers.google.com/earth-engine/datasets/catalog/NASA_HLS_HLSS30_v002:
+  Dataset:
+  - HLS Sentinel-2 Multi-spectral Instrument Surface Reflectance Daily Global 30m
+  Instrument:
+  - Operational Land Imager (OLI) aboard Landsat 8 and 9 satellites, Multi-Spectral
+    Instrument (MSI) aboard Europe's Copernicus Sentinel-2A and 2B satellites
+  Organization:
+  - NASA Land Processes Distributed Active Archive Center responsible for producing
+    and distributing HLS data
+  Platform:
+  - A platform for petabyte-scale scientific analysis and visualization of geospatial
+    datasets
+https://lifesciences.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-2bd-kskz:
+  Dataset:
+  - Database presenting measurements on trees and regeneration in circular sample
+    plots throughout Dutch forest reserves and in a one ha rectangular core area in
+    each reserve.
+https://stac.ecodatacube.eu/blue_glad.landsat.ard2.seasconv.m.yearly/collection.json:
+  Dataset:
+  - EcoDataCube, GLAD Landsat ARD
+  File:
+  - blue_glad.landsat.ard2.seasconv.m.yearly
+  Format:
+  - COG
+  License:
+  - CC-BY-SA-4.0
+  Organization:
+  - opengeohub
+  Person:
+  - Leandro Parente
+  Satellite:
+  - Landsat
+https://stac.ecodatacube.eu/green_glad.landsat.ard2.seasconv.m.yearly/collection.json:
+  Dataset:
+  - EcoDataCube, GLAD Landsat ARD
+  License:
+  - CC-BY-SA-4.0
+  Organization:
+  - opengeohub
+  Person:
+  - Leandro Parente
+  Platform:
+  - Zenodo
+  Satellite:
+  - Landsat
+https://stac.ecodatacube.eu/ndvi_glad.landsat.ard2.seasconv/collection.json?.language=en:
+  Data Product:
+  - Processed Landsat data product used for generating NDVI.
+  Dataset:
+  - Provides cloud-free reconstructed Landsat bimonthly NDVI from 2000 to 2022.
+  Expression:
+  - 'Scales NDVI data using the formula: (data - 125) / 125.'
+  File Format:
+  - Cloud Optimized GeoTIFF for efficient web serving of geospatial raster data.
+  Index:
+  - Measure of vegetation greenness derived from satellite imagery.
+  License:
+  - CC-BY-SA-4.0. Creative Commons Attribution-ShareAlike 4.0 International License.
+  Organization:
+  - Provider of the EcoDataCube dataset.
+  Person:
+  - Contact person for the EcoDataCube dataset.
+https://stac.ecodatacube.eu/veg_quercus.robur_anv.eml/collection.json?.language=en:
+  Category:
+  - vegetation, indicating the dataset relates to veg.
+  Dataset:
+  - EcoDataCube containing probability distribution for Quercus robur from 2000 to
+    2020.
+  File Format:
+  - Cloud Optimized GeoTIFF (COG), optimized for cloud storage and access.
+  License:
+  - CC-BY-SA-4.0, Creative Commons Attribution-ShareAlike 4.0 International License.
+  Model:
+  - ANV represents the probability of occurrence for Quercus robur in its realized
+    environment.
+  Organization:
+  - opengeohub, provider of the dataset.
+  Person:
+  - Carmelo Bonannella, contact person for the dataset.
+  Satellite Imagery:
+  - Landsat imagery used in the dataset creation.
+  Species:
+  - Quercus robur, also known as Pedunculate oak, is a tree species.
+https://zenodo.org/records/11440456:
+  File:
+  - datapackage.json contains metadata about the camera trap project and data package;
+    deployments.csv details individual camera trap deployments; media.csv details
+    every image in the data package; observations.csv lists species observations derived
+    from images; events.csv links observation events to media.
+  Folder:
+  - media folder contains subfolders for each deployment with raw images.
+  License:
+  - Creative Commons Attribution 4.0 International, the license under which the dataset
+    is distributed.
+  Location:
+  - Amsterdamse Waterleidingduinen, a nature reserve in the Netherlands where camera
+    trap studies were conducted.
+  Organization:
+  - GBIF, Global Biodiversity Information Facility, which provides extended data publishing
+    capabilities.
+  Platform:
+  - Agouti, a platform used for annotating and verifying wildlife camera images.
+  Publisher:
+  - Zenodo, the platform where the dataset is published.
+  Species:
+  - European rabbit, Red fox, and European fallow deer were detected in the camera
+    trap studies.
+  Standard:
+  - Camtrap DP, an open standard for the exchange and archiving of camera trap data.
+https://zenodo.org/records/8319440:
+  Country:
+  - A country in Western Europe known for its rich history and diverse landscapes.
+  Dataset:
+  - Global land cover map produced by the European Space Agency. Provides detailed
+    land cover information. Version v1
+  License:
+  - Allows others to distribute, remix, tweak, and build upon a work, even commercially,
+    as long as they credit the creator.
+  Model:
+  - Provides historical and future land-use scenarios. Used for land allocation and
+    land use projections.
+  Platform:
+  - An open-access repository where researchers can share research data and outputs.
+  Project:
+  - Focused on pond ecosystems and their resilience in a changing climate.
